@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Rod McCutcheon',
+  subtitle: 'Software Engineer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -14,25 +14,22 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Portfolio',
+      path: '/pages/portfolio'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'About me',
+      path: '/pages/about'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Rod McCutcheon',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Engineer',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'rodmccutcheon@gmail.com',
+      github: 'rodmccutcheon',
+      linkedin: 'rodmccutcheon'
     }
   }
 };
