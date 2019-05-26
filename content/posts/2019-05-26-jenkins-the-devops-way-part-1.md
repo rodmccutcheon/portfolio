@@ -2,7 +2,7 @@
 template: post
 title: Jenkins The DevOps Way - Part 1
 slug: /posts/jenkins-the-devops-way-part-1
-draft: true
+draft: false
 date: 2019-05-26T02:34:12.731Z
 description: Part 1 of a multi-part series on Jenkins The DevOps Way
 category: DevOps
