@@ -4,35 +4,14 @@ title: About me
 slug: pages/about
 draft: false
 ---
-Software Engineer - Melbourne, Australia
+I'm a Software Engineer, based in Melbourne, Australia (born and bred).
 
-Currently working at OR Technologies building revolutionary lighting control technology - check us out [here](<https://www.organicresponse.com/>).
+![Pre coffee](/media/img_4812.jpeg "Pre coffee")
 
-* Strong communication skills, work ethic, and attention to detail.
-* Committed to continuous learning and applying best practices.
-* Passionate about enterprise Java technologies, Spring Boot, JPA/Hibernate, Maven/Gradle, JUnit, Cucumber-JVM.
-* DevOps enthusiast; Docker, Terraform, Ansible, Jenkins.
-* Experienced in Agile methods, especially Scrum, sprints, planning poker, pair programming, test-driven development, etc.
+By day I work at OR Technologies building revolutionary lighting control technology - check us out [here](https://www.organicresponse.com/). I'm primarily responsible for building and maintaining our web portal - based on the excellent Spring Boot and Angular JS frameworks - which connects our plug and play lighting control technology with the Internet of Things. The platform provides the ability to capture, store and analyse data in the cloud, making it accessible anywhere, anytime. Combined with central control capability, connectivity creates smarter spaces and smarter buildings.
 
-When I'm not coding I like travelling, playing basketball, and sampling craft beer.
+A typical day at OR Technologies might involve building out our public API in trusty old Java, integrating with Building Automation and Control networks (BACnet) with a little Python, crafting a bespoke CLI in Scala, or spinning up cloud infrastructure (AWS) with the likes of Terraform, Ansible and Docker. There's never a dull moment.
 
-## Skills
+By night you can find me playing in a local basketball comp, or sampling craft beer.
 
-### Programming Languages
-
-Java, Scala, Python, Typescript/Javascript
-
-### Frameworks
-
-Spring Boot, Angular JS
-
-### Tools
-
-Docker, Terraform, Ansible, Jenkins
-
-## Certifications
-
-* Pivotal Certified Spring Professional - Jan 2018
-* Linux Essentials - Dec 2017
-* Oracle Certified Professional, Java SE 8 Programmer - Aug 2017
-* Certified ScrumMaster - Aug 2018
+##
