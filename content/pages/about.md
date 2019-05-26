@@ -6,7 +6,7 @@ draft: false
 ---
 I'm a Software Engineer, based in Melbourne, Australia (born and bred). I can't honestly tell you why I chose to study Software Engineering at university, given I'd never written a single line of code before day one of Programming Principles 1A (HTML doesn't count!). Maybe it was the long hours I spent playing Prince of Persia on my dad's Mac. Lucky for me in turned out to be a pretty awesome career choice, and I get to build "cool stuff" at the intersection of tech and smart lighting.
 
-<div style='position:relative; padding-bottom:calc(62.50% + 44px)'><iframe src='https://gfycat.com/ifr/ShabbyBlueAmericancurl' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/shabbyblueamericancurl-prince-prince-of-persia-pop">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(62.50% + 44px)'><iframe src='https://gfycat.com/ifr/SpitefulWhiteIslandcanary' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/spitefulwhiteislandcanary">via Gfycat</a></p>
 
 ![Pre coffee](/media/img_4812.jpeg "Pre coffee")
 ![Post coffee](/media/img_4816.jpeg "Post coffee")
