@@ -7,6 +7,7 @@ draft: false
 I'm a Software Engineer, based in Melbourne, Australia (born and bred).
 
 ![Pre coffee](/media/img_4812.jpeg "Pre coffee")
+![Post coffee](/media/img_4816.jpeg "Post coffee")
 
 By day I work at OR Technologies building revolutionary lighting control technology - check us out [here](https://www.organicresponse.com/). I'm primarily responsible for building and maintaining our web portal - based on the excellent Spring Boot and Angular JS frameworks - which connects our plug and play lighting control technology with the Internet of Things. The platform provides the ability to capture, store and analyse data in the cloud, making it accessible anywhere, anytime. Combined with central control capability, connectivity creates smarter spaces and smarter buildings.
 
