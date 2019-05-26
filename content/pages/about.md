@@ -8,7 +8,8 @@ Software Engineer - Melbourne, Australia
 
 Currently working at OR Technologies building revolutionary lighting control technology - check us out [here](<https://www.organicresponse.com/>).
 
-* Strong communication skills, work ethic and attention to detail accompanied by a commitment to continuous learning and applying best practices.
+* Strong communication skills, work ethic, and attention to detail.
+* Committed to continuous learning and applying best practices.
 * Passionate about enterprise Java technologies, Spring Boot, JPA/Hibernate, Maven/Gradle, JUnit, Cucumber-JVM.
 * DevOps enthusiast; Docker, Terraform, Ansible, Jenkins.
 * Experienced in Agile methods, especially Scrum, sprints, planning poker, pair programming, test-driven development, etc.
