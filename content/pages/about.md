@@ -4,7 +4,7 @@ title: About me
 slug: pages/about
 draft: false
 ---
-I'm a Software Engineer, based in Melbourne, Australia (born and bred).
+I'm a Software Engineer, based in Melbourne, Australia (born and bred). I can't honestly tell you why I chose to study Software Engineering at university, given I'd never written a single line of code before day one of Programming Principles 1A (HTML doesn't count!). Maybe it was the long hours I spent playing Prince of Persia on my dad's Mac. Lucky for me in turned out to be a pretty awesome career choice, and I get to build "cool stuff" at the intersection of tech and smart lighting.
 
 ![Pre coffee](/media/img_4812.jpeg "Pre coffee")
 ![Post coffee](/media/img_4816.jpeg "Post coffee")
