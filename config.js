@@ -29,7 +29,8 @@ module.exports = {
     contacts: {
       email: 'rodmccutcheon@gmail.com',
       github: 'rodmccutcheon',
-      linkedin: 'rodmccutcheon'
+      linkedin: 'rodmccutcheon',
+      stackoverflow: '8356900/rod-mccutcheon'
     }
   }
 };
